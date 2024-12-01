@@ -79,7 +79,7 @@ a{
 }
 
 .mainvisual{
-  width: 100px;
+  width: 100%;
   height: 100vh;
   background-image: url(../img/mainvisual.jpg);
   background-size: cover;
@@ -178,7 +178,7 @@ width: 70%;
 
 /* footer */
 #footer{
-  width: 100vw;
+  width: 100%;
   height: 400px;
   background-image: url(../img/DSC_0014.JPEG);
   background-size: cover;
